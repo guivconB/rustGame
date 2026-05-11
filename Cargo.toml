@@ -1,0 +1,10 @@
+[package]
+name = "bullet_dodger"
+version = "0.1.0"
+edition = "2021"
+
+# --- Dependências ---
+[dependencies]
+# Macroquad: framework 2D para jogos em Rust
+# Documentação: https://docs.rs/macroquad
+macroquad = "0.4"
